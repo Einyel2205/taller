@@ -1,0 +1,32 @@
+#input-color{
+    width: 100px;
+    margin: 10px auto;
+}
+
+#color{
+    width: 100px;
+}
+
+#container-main{
+    width: 100%;
+}
+
+#container-dateOfBirht{
+    margin: 20px auto;
+    height: 389px;
+    width: 250px;
+    background: #dddddd;
+    border: solid 1px #000000;
+    text-align: center;
+    
+}
+
+#container-dateOfBirht h2{
+    color: #000000;
+    margin-bottom: 5px;
+
+}
+#dateOfBirht{
+    width: 200px;
+    height: 40px;
+} 

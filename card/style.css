@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #3b3b40;
+    
+}
+.changeColor{
+    display: grid;
+    place-items: center;
+}
+.card header{
+    background-color: aliceblue;
+    height: 200px;
+    width: 200px;
+}
+.card{
+    display: grid;
+    place-items: center;
+}
+footer{
+    background-color: aliceblue;
+}
+
